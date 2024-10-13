@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Technology (B.Tech) National Institute of Technology (NIT) Durgapur, [2020-2024]
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* (Jul 2024-- present) : Post-Bacc Researcher 
+  * Indian Institute of Technology (IIT) Madras
+  * Duties includes: Worked on Brain Coputer Interface Project
+  * Supervisor: Dr. Parul Verma 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec 2023 -- May 2024 : Bachelor thesis Student
+  * National Institute of Technology (NIT) Durgapur
+  * Duties included: Worked on Drug Delivery Systems
+  * Supervisor: Professor Dalia Dasgupta Mandal
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2023--Nov 2023: Undergrad Researcher 
+  * National Institute of Technology (NIT) Durgapur
+  * Duties included: Worked on drug release kinetics
+  * Supervisor: Professor Dalia Dasgupta Mandal
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematics
+* Programming
+  * Python, Matlab, C++
+  * Pandas, Numpy, Matplotlib, Scikit-learn
+  * ML frameworks
+* Machine Learning
 
 Publications
 ======
