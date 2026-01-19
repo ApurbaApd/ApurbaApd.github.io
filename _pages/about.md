@@ -3,6 +3,8 @@ permalink: /
 author_profile: true
 ---
 
+
+
 Welcome! I am **Apurba Debnath**, an MS Graduate student at [UC San Francisco](https://www.ucsf.edu)
 , specializing in Biomedical Imaging technologies. I am currenltly working with [Prof. Sri Nagarajan](https://radiology.ucsf.edu/people/srikantan-nagarajan), [Prof. Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) in the compuational neurosciene domain with epilepsy. I am also working with [Prof. Leo P. Sugrue](https://radiology.ucsf.edu/people/leo-sugrue) on deep brain stimulation with Precision neuroimaging. 
 
@@ -14,9 +16,9 @@ My research focuses on understanding **neural population dynamics**, **structura
  
 
 
-## Research
+## Preprint
 
-[Debnath, A.,Venot,T.,Corsi,M-C.&Verma,P.,“Neural mechanisms of training in Brain-Computer Interface: A Biophysical modeling approach,”(under review)](https://doi.org/10.1101/2025.06.21.660834)
+[Debnath, A., Venot,T., Corsi,M-C.& Verma,P.,“Neural mechanisms of training in Brain-Computer Interface: A Biophysical modeling approach,”(under review)](https://doi.org/10.1101/2025.06.21.660834)
 
 
 
