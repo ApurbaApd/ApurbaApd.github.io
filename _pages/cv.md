@@ -14,7 +14,7 @@ Education
 * M.S. in Biomedical Imaging, University of California, San Francisco, 2025-2026
 * B.Tech. in Biotechnology, National Institute of Technology Durgapur, 2020-2024
 
-Work experience
+Research experience
 ======
 * Jan 2026 - Present: Garduate Researcher
   * UC San Franscisco, Laboratory for Precision Neuroimaging
@@ -33,7 +33,7 @@ Work experience
   * Advisor: Prof. Dalia Dasgupta Mandal
   
 
-Publications
+Peer-Reviewed Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
