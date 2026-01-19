@@ -3,38 +3,20 @@ permalink: /
 author_profile: true
 ---
 
-Welcome! I am **Apurba Debnath**, a researcher working at the intersection of **computational neuroscience, EEG signal analysis, and machine learning**.  
-My research focuses on understanding **neural population dynamics**, **oscillatory activity (ERD/ERS)**, and **motor imagery–related brain processes**, with applications to brain–computer interfaces and neurophysiological modeling.
+Welcome! I am **Apurba Debnath**, an MS Graduate student at UC San Francisco, specializing in Biomedical Imaging technologies. I am currenltly working with Prof. Sri Nagarajan, Prof. Ashish Raj in the compuational neurosciene domain with epilepsy. I am also working with Prof. Leo P. Sugrue on deep brain stimulation with Precision neuroimaging. 
 
-This website serves as a central hub for my **research outputs, publications, talks, teaching activities, and code projects**, and is built using the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, hosted for free on [GitHub Pages](https://pages.github.com).
+Before joining UCSF, I worked on Brain-Computer Interface/compuatational neuroscience as a Postbacc researcher at IIT Madras, India, in collaboration with Paris Brain Institute. My postbacc research was focused on elucidating the underlying neural mechaninsm of BCI control to make biologically informed personalized BCI training prptocols. 
 
----
+I graduated with a Bachelor's degree in Biotechnology with Mathematics and Computer Science in 2024 from NIT Durgapur, India. As an undergraduate researcher, I worked with Prof. Dalia Dasgupta Mandal on drug delivery systems. 
 
-## Research Interests
-- EEG-based motor imagery and resting-state analysis  
-- Neural oscillations (alpha/beta ERD–ERS mechanisms)  
-- Computational and biophysical modeling of cortical dynamics  
-- Machine learning and statistical modeling for neural data  
-- Within-subject and cross-session variability in brain signals  
+My research focuses on understanding **neural population dynamics**, **structural and functional brain connectivity** ,**Deep-Brain Stimulation**, and **motor imagery–related brain processes**, with applications to brain–computer interfaces and neurophysiological modeling.
+ 
 
----
 
-## About This Website
-This site is powered by the **Academic Pages** Jekyll template, originally forked from the  
-[Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) by Michael Rose and extended specifically for academic use.
+## Research
 
-The site supports:
-- 📄 Publications and preprints  
-- 🎤 Talks and presentations  
-- 🧠 Research projects and datasets  
-- 🧑‍🏫 Teaching and mentoring  
-- 📑 A dynamically generated academic CV  
-
-All content is version-controlled and openly hosted, ensuring transparency, reproducibility, and long-term accessibility.
-
----
-
-## A Data-Driven Academic Website
+Debnath, A.,Venot,T.,Corsi,M-C.&Verma,P.,“Neural mechanisms of training in Brain-Computer
+Interface: A Biophysical modeling approach,”(under review) (https://doi.org/10.1101/2025.06.21.660834)
 
 
 
