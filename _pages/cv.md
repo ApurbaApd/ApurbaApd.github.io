@@ -26,7 +26,11 @@ Work experience
 
 * Jul 2024 - Jul 2025: Post-Bacc Researcher 
   * IIT Madras, India
-  * Advisor: Parul Verma (IIT Madras) & Marie-Constance Corsi (Paris Brain Institute)
+  * Advisor: Parul Verma, PhD (IIT Madras) & Marie-Constance Corsi, PhD (Paris Brain Institute)
+
+* Aug 2023 - May 2024: Undergraduate Researcher 
+  * NIT Durgapur, India
+  * Advisor: Prof. Dalia Dasgupta Mandal
   
 
 Publications
