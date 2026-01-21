@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * M.S. in Biomedical Imaging, University of California, San Francisco, 2025-2026
-  
 * B.Tech. in Biotechnology, National Institute of Technology Durgapur, 2020-2024
 
 Research experience
