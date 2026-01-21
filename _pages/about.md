@@ -18,7 +18,7 @@ My research focuses on understanding **neural population dynamics**, **structura
 
 ## Preprint
 
-**Debnath, A.**, Venot,T., Corsi,M-C.& Verma,P.,“Neural mechanisms of training in Brain-Computer Interface: A Biophysical modeling approach,” [Paper](https://doi.org/10.1101/2025.06.21.660834)
+**Debnath, A.**,  Venot,T., Corsi,M-C. & Verma,P., “Neural mechanisms of training in Brain-Computer Interface: A Biophysical modeling approach,” [Paper](https://doi.org/10.1101/2025.06.21.660834)
 
 
 
