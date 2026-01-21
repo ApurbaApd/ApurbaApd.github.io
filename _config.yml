@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Home"
+title                    : "Apurba Debnath"
 title_separator          : "-"
 name                     : &name "Apurba Debnath"
 description              : &description "Academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -29,7 +29,7 @@ author:
   bio              : "Neuroscience Reasearcher"
   location         : "San Francisco Bay Area"
   employer         : "UCSF"
-  uri              : "https://www.ucsf.edu"
+  # uri              : "https://www.ucsf.edu"
   email            : "apurba.debnath@ucsf.edu" 
 
   # Academic websites
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=CYdsnhEAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  # orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://apurbadebnath.bsky.social" # Replace this with you Bluesky username
+  # bluesky          : "https://apurbadebnath.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
