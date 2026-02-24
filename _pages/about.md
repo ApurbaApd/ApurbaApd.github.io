@@ -6,7 +6,7 @@ author_profile: true
 
 
 Welcome! I am **Apurba Debnath**, an MS Graduate student at [UC San Francisco](https://www.ucsf.edu)
-, specializing in Biomedical Imaging technologies. I am currenltly working with [Prof. Sri Nagarajan](https://radiology.ucsf.edu/people/srikantan-nagarajan), [Prof. Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) in the compuational neurosciene domain with epilepsy. I am also working with [Prof. Leo P. Sugrue](https://radiology.ucsf.edu/people/leo-sugrue) on deep brain stimulation with Precision neuroimaging. 
+, specializing in Biomedical Imaging technologies. I am currenltly working in [Brain Networks Laboratory](https://rajlab.ucsf.edu) with [Prof. Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and [Prof. Sri Nagarajan](https://radiology.ucsf.edu/people/srikantan-nagarajan), in the compuational neurosciene domain with epilepsy. 
 
 Before joining UCSF, I worked on Brain-Computer Interface/compuatational neuroscience as a Postbacc researcher at **IIT Madras**, India, in collaboration with **Paris Brain Institute**. My postbacc research was focused on elucidating the underlying neural mechaninsm of BCI control to make biologically informed personalized BCI training prptocols, with [Marie-Constance Corsi](https://www.inria.fr/en/marie-constance-corsi-explorer-cerebral-intention) at Inria-Paris Brain Institute and [Parul Verma](https://ibse.iitm.ac.in/people/parul_verma/) at IBSE, IIT Madras. 
 
