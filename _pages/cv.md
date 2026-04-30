@@ -17,7 +17,7 @@ Education
 Research experience
 ======
 
-* Sep 2025 - Present: Garduate Student Researcher
+* Sep 2025 - Present: Graduate Student Researcher
   * UC San Franscisco, Brain Networks Laboratory
   * Advisors: Prof. Ashish Raj & Srikantan Nagarajan
 
