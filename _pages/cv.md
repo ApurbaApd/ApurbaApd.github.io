@@ -16,13 +16,10 @@ Education
 
 Research experience
 ======
-* Jan 2026 - Present: Garduate Researcher
-  * UC San Franscisco, Laboratory for Precision Neuroimaging
-  * Advisor: Prof. Leo P. Sugrue, MD, PhD
 
-* Sep 2025 - Present: Garduate Researcher
-  * UC San Franscisco, Biomagnetic Imaging Lab & Brain Networks Lab
-  * Advisors: Prof. Sri Nagarajan & Prof. Ashish Raj
+* Sep 2025 - Present: Garduate Student Researcher
+  * UC San Franscisco, Brain Networks Laboratory
+  * Advisors: Prof. Ashish Raj & Srikantan Nagarajan
 
 * Jul 2024 - Jul 2025: Post-Baccalaureate Researcher 
   * IIT Madras, India
