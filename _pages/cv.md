@@ -18,8 +18,8 @@ Research experience
 ======
 
 * Sep 2025 - Present: Graduate Student Researcher
-  * UC San Franscisco, Brain Networks Laboratory
-  * Advisors: Prof. Ashish Raj & Srikantan Nagarajan
+  * Brain Networks Laboratory, UC San Franscisco
+  * Advisors: Prof. Ashish Raj & Prof. Srikantan Nagarajan
 
 * Jul 2024 - Jul 2025: Post-Baccalaureate Researcher 
   * IIT Madras, India
