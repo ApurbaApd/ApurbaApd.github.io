@@ -30,7 +30,7 @@ Research experience
   * Advisor: Prof. Dalia Dasgupta Mandal
   
 
-Peer-Reviewed Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
