@@ -12,9 +12,6 @@ Before joining UCSF, I worked on Brain-Computer Interface/compuatational neurosc
 
 I graduated with a Bachelor's degree in Biotechnology with Mathematics and Computer Science in 2024 from **NIT Durgapur, India**. As an undergraduate researcher, I worked with [Prof. Dalia Dasgupta Mandal](https://nitdgp.ac.in/department/biotechnology) on drug delivery systems. 
 
-My research focuses on understanding **neural population dynamics**, **structural and functional brain connectivity** ,**Deep-Brain Stimulation**, and **motor imagery–related brain processes**, with applications to brain–computer interfaces and neurophysiological modeling.
- 
-
 
 ## Preprint
 
