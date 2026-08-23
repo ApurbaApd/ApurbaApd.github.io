@@ -1,1 +1,1 @@
-[Download CV (PDF)]({{ base_path }}/files/Apurba_CV.pdf)
+[Download CV (PDF)](/files/Apurba_CV.pdf)
