@@ -1,1 +1,37 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 [Download CV (PDF)](/files/Apurba_CV.pdf)
+
+Education
+======
+* M.S. in Biomedical Imaging, University of California, San Francisco, 2025-2026
+* B.Tech. in Biotechnology, National Institute of Technology Durgapur, 2020-2024
+
+Research experience
+======
+
+* Jan 2026 - Present: Graduate Student Researcher
+  * Brain Networks Laboratory, UC San Francisco
+  * Advisors: Prof. Ashish Raj & Prof. Srikantan Nagarajan
+
+* Jul 2024 - Jul 2025: Post-Baccalaureate Researcher
+  * IIT Madras, India
+  * Advisors: Parul Verma, PhD (IIT Madras) & Marie-Constance Corsi, PhD (Paris Brain Institute)
+
+* Aug 2023 - May 2024: Undergraduate Researcher
+  * NIT Durgapur, India
+  * Advisor: Prof. Dalia Dasgupta Mandal
+
+Publications
+======
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
