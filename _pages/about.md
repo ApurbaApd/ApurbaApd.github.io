@@ -14,7 +14,7 @@ I graduated with a Bachelor's degree in Biotechnology with Mathematics and Compu
 
 
 
-## Preprint
+## Peer-Reviewed Publications
 
 **Debnath, A.**,  Venot, T., Corsi, M-C. & Verma, P., “Neural mechanisms of training in Brain-Computer Interface: A Biophysical modeling approach,” [Paper](https://doi.org/10.1101/2025.06.21.660834)
 
