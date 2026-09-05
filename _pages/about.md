@@ -16,7 +16,10 @@ I graduated with a Bachelor's degree in Biotechnology with Mathematics and Compu
 
 ## Peer-Reviewed Publications
 
-**Debnath, A.**,  Venot, T., Corsi, M-C. & Verma, P., “Neural mechanisms of training in Brain-Computer Interface: A Biophysical modeling approach,” [Paper](https://doi.org/10.1101/2025.06.21.660834)
+**Debnath, A.**,  Venot, T., Corsi, M-C. & Verma, P. (2025), “Neural mechanisms of training in Brain-Computer Interface: A Biophysical modeling approach,” [Paper](https://doi.org/10.1101/2025.06.21.660834)
+
+**Debnath, A.** (2026), “Spectral Graph modeling of abnormal neural synchronizations in Alzheimer’s disease.” MS Thesis, UCSF. [Paper](https://www.proquest.com/dissertations-theses/spectral-graph-modeling-abnormal-neural/docview/3381514999/se-2?accountid=14525)
+
 
 
 
