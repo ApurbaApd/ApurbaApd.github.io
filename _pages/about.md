@@ -7,7 +7,7 @@ I am a computational neuroscientist interested in understanding brain dynamics
 through **neuroimaging, brain network modeling, and machine learning**.
 
 I recently completed my **M.S. in Biomedical Imaging at the University of
-California, San Francisco (UCSF)**, where I studied computational models of
+California, San Francisco (UCSF)**, where I worked on computational modeling of
 brain network alterations in **Alzheimer's disease** at the
 [Brain Networks Laboratory](https://rajlab.ucsf.edu), working with
 [Prof. Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
@@ -17,15 +17,13 @@ Previously, I was a postbaccalaureate researcher at **IIT Madras**, in
 collaboration with the **Paris Brain Institute**. My research focused on
 understanding the neural mechanisms underlying **brain–computer interface
 (BCI) control** and using computational models to inform personalized BCI
-training. I worked with
-[Marie-Constance Corsi](https://parisbraininstitute.org/collaborators/corsi-marie-constance)
-at Inria–Paris Brain Institute and
-[Parul Verma](https://ibse.iitm.ac.in/people/parul_verma/) at IIT Madras.
+training. There I worked with [Parul Verma](https://ibse.iitm.ac.in/people/parul_verma/) at IBSE, IIT Madras, and
+[Marie-Constance Corsi](https://parisbraininstitute.org/collaborators/corsi-marie-constance) at Inria–Paris Brain Institute.
 
 I received my **B.Tech. in Biotechnology with Mathematics and Computer Science
 from NIT Durgapur, India, in 2024**. As an undergraduate researcher, I worked
-on mathematical and machine-learning models of drug delivery systems with
-[Prof. Dalia Dasgupta Mandal](https://nitdgp.ac.in/department/biotechnology).
+on mathematical/machine-learning modeling of drug delivery systems with
+[Prof. Dalia Dasgupta Mandal](https://nitdgp.ac.in/department/biotechnology). Check out my CV **[here](files/Apurba_CV.pdf)**
 
 ---
 
@@ -86,9 +84,6 @@ M.S. Thesis, University of California, San Francisco.
 **University of California, San Francisco** — M.S. Biomedical Imaging, 2026  
 **National Institute of Technology Durgapur** — B.Tech. Biotechnology, 2024
 
----
-
-**[Curriculum Vitae](files/Apurba_CV.pdf)** · **[Google Scholar](#)** · **[GitHub](#)** · **[LinkedIn](#)**
 
 
 
