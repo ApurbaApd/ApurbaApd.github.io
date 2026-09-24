@@ -3,8 +3,8 @@ permalink: /
 author_profile: true
 ---
 
-I am a computational neuroscientist interested in understanding brain dynamics
-through **neuroimaging, brain network modeling, and machine learning**.
+Hey, I am currently working on understanding brain dynamics
+through **neuroimaging, compuatational models and machine learning**.
 
 I recently completed my **M.S. in Biomedical Imaging** in the Department of Radiology and Biomedical Imaging at the **University of
 California, San Francisco (UCSF)**, where I worked on computational modeling of
@@ -20,12 +20,11 @@ understanding the neural mechanisms underlying **brain–computer interface
 training. There I worked with [Parul Verma](https://ibse.iitm.ac.in/people/parul_verma/) at IBSE, IIT Madras, and
 [Marie-Constance Corsi](https://parisbraininstitute.org/collaborators/corsi-marie-constance) at Inria–Paris Brain Institute.
 
-I received my **B.Tech. in Biotechnology with Mathematics and Computer Science
+I earned my **Bachelor's Degree in Biotechnology with Mathematics and Computer Science
 from NIT Durgapur, India, in 2024**. As an undergraduate researcher, I worked
 on mathematical/machine-learning modeling of drug delivery systems with
 [Prof. Dalia Dasgupta Mandal](https://nitdgp.ac.in/department/biotechnology). Check out my CV **[here](files/Apurba_CV.pdf)**
 
----
 ## Peer-Reviewed Publications
 
 **Debnath, A.**, Venot, T., Corsi, M.-C. & Verma, P. (2025).  
@@ -39,15 +38,11 @@ Disease.*
 M.S. Thesis, University of California, San Francisco.  
 [Thesis](https://www.proquest.com/dissertations-theses/spectral-graph-modeling-abnormal-neural/docview/3381514999/se-2?accountid=14525)
 
----
-
 ## Education
 
 M.S. in Biomedical Imaging, **University of California, San Francisco**, 2026
 
 B.Tech. Biotechnology, **National Institute of Technology Durgapur**, 2024
-
----
 
 ## Research Interests
 
@@ -63,7 +58,6 @@ BCI modeling · Motor imagery · Neural mechanisms of learning
 **Machine Learning**  
 Medical imaging · Representation learning · Biomedical AI
 
----
 
 ## Selected Research
 
