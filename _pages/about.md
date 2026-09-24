@@ -6,7 +6,7 @@ author_profile: true
 I am a computational neuroscientist interested in understanding brain dynamics
 through **neuroimaging, brain network modeling, and machine learning**.
 
-I recently completed my **M.S. in Biomedical Imaging at the University of
+I recently completed my **M.S. in Biomedical Imaging** in the Department of Radiology and Biomedical Imaging at the **University of
 California, San Francisco (UCSF)**, where I worked on computational modeling of
 brain network alterations in **Alzheimer's disease** at the
 [Brain Networks Laboratory](https://rajlab.ucsf.edu), working with
