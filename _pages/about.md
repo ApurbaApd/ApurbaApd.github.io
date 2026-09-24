@@ -4,19 +4,19 @@ author_profile: true
 ---
 
 Hey, I am currently working on understanding brain dynamics
-through **neuroimaging, compuatational models and machine learning**.
+through neuroimaging, compuatational models and machine learning.
 
-I recently completed my **M.S. in Biomedical Imaging** in the Department of Radiology and Biomedical Imaging at the **University of
-California, San Francisco (UCSF)**, where I worked on computational modeling of
-brain network alterations in **Alzheimer's disease** at the
+I recently graduated from **University of
+California, San Francisco (UCSF)**, with my **Master's in Biomedical Imaging** in the Department of Radiology and Biomedical Imaging, where I worked on computational modeling of
+brain network alterations in Alzheimer's disease at the
 [Brain Networks Laboratory](https://rajlab.ucsf.edu), working with
 [Prof. Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
 [Prof. Srikantan Nagarajan](https://radiology.ucsf.edu/people/srikantan-nagarajan).
 
 Previously, I was a postbaccalaureate researcher at **IIT Madras**, in
 collaboration with the **Paris Brain Institute**. My research focused on
-understanding the neural mechanisms underlying **brain–computer interface
-(BCI) control** and using computational models to inform personalized BCI
+understanding the neural mechanisms underlying brain–computer interface
+(BCI) control and using computational models to inform personalized BCI
 training. There I worked with [Parul Verma](https://ibse.iitm.ac.in/people/parul_verma/) at IBSE, IIT Madras, and
 [Marie-Constance Corsi](https://parisbraininstitute.org/collaborators/corsi-marie-constance) at Inria–Paris Brain Institute.
 
