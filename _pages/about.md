@@ -3,22 +3,97 @@ permalink: /
 author_profile: true
 ---
 
+# Apurba Debnath
 
+**Computational Neuroscience · Neuroimaging · Brain–Computer Interfaces · Machine Learning**
 
-Welcome! I am **Apurba Debnath**, an MS Graduate student at [UC San Francisco](https://www.ucsf.edu)
-, specializing in Biomedical Imaging technologies. I am currenltly working on computaional modeling of Alzheimer's disease brain netwroks at the [Brain Networks Laboratory](https://rajlab.ucsf.edu) with [Prof. Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and [Prof. Srikantan Nagarajan](https://radiology.ucsf.edu/people/srikantan-nagarajan). 
+I am a computational neuroscientist interested in understanding brain dynamics
+through **neuroimaging, brain network modeling, and machine learning**.
 
-Before joining UCSF, I worked on Brain-Computer Interface/compuatational neuroscience as a Postbacc researcher at **IIT Madras**, India, in collaboration with **Paris Brain Institute**. My postbacc research was focused on elucidating the underlying neural mechaninsm of BCI control to make biologically informed personalized BCI training protocols, with [Marie-Constance Corsi](https://parisbraininstitute.org/collaborators/corsi-marie-constance) at Inria-Paris Brain Institute and [Parul Verma](https://ibse.iitm.ac.in/people/parul_verma/) at IBSE, IIT Madras. 
+I recently completed my **M.S. in Biomedical Imaging at the University of
+California, San Francisco (UCSF)**, where I studied computational models of
+brain network alterations in **Alzheimer's disease** at the
+[Brain Networks Laboratory](https://rajlab.ucsf.edu), working with
+[Prof. Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
+[Prof. Srikantan Nagarajan](https://radiology.ucsf.edu/people/srikantan-nagarajan).
 
-I graduated with a Bachelor's degree in Biotechnology with Mathematics and Computer Science in 2024 from **NIT Durgapur, India**. As an undergraduate researcher, I worked on mathematical/machine learning modeling of drug delivery systems, with [Prof. Dalia Dasgupta Mandal](https://nitdgp.ac.in/department/biotechnology). Check out my [CV here](/files/Apurba_CV.pdf)
+Previously, I was a postbaccalaureate researcher at **IIT Madras**, in
+collaboration with the **Paris Brain Institute**. My research focused on
+understanding the neural mechanisms underlying **brain–computer interface
+(BCI) control** and using computational models to inform personalized BCI
+training. I worked with
+[Marie-Constance Corsi](https://parisbraininstitute.org/collaborators/corsi-marie-constance)
+at Inria–Paris Brain Institute and
+[Parul Verma](https://ibse.iitm.ac.in/people/parul_verma/) at IIT Madras.
 
+I received my **B.Tech. in Biotechnology with Mathematics and Computer Science
+from NIT Durgapur, India, in 2024**. As an undergraduate researcher, I worked
+on mathematical and machine-learning models of drug delivery systems with
+[Prof. Dalia Dasgupta Mandal](https://nitdgp.ac.in/department/biotechnology).
 
+---
 
-## Peer-Reviewed Publications
+## Research Interests
 
-**Debnath, A.**,  Venot, T., Corsi, M-C. & Verma, P. (2025), “Neural mechanisms of training in Brain-Computer Interface: A Biophysical modeling approach,” [Paper](https://doi.org/10.1101/2025.06.21.660834)
+**Computational Neuroscience**  
+Brain network modeling · Neural mass models · Neural dynamics
 
-**Debnath, A.** (2026), “Spectral Graph modeling of abnormal neural synchronizations in Alzheimer’s disease.” MS Thesis, UCSF. [Paper](https://www.proquest.com/dissertations-theses/spectral-graph-modeling-abnormal-neural/docview/3381514999/se-2?accountid=14525)
+**Neuroimaging**  
+MEG · EEG · MRI · Spectral analysis · Brain connectivity
+
+**Brain–Computer Interfaces**  
+BCI modeling · Motor imagery · Neural mechanisms of learning
+
+**Machine Learning**  
+Medical imaging · Representation learning · Biomedical AI
+
+---
+
+## Selected Research
+
+### Alzheimer’s Disease & Brain Network Modeling
+
+My current research focuses on using **spectral graph modeling and neural mass
+models** to characterize abnormal neural dynamics associated with Alzheimer's
+disease using neuroimaging data.
+
+### Brain–Computer Interfaces
+
+I developed computational models of neural dynamics to investigate how the brain
+changes during BCI training, with the goal of understanding mechanisms that may
+support **personalized BCI training**.
+
+### Medical Imaging & Machine Learning
+
+My broader interests include applying machine learning to biomedical imaging,
+including image reconstruction, denoising, segmentation, and quantitative
+analysis.
+
+---
+
+## Publications
+
+**Debnath, A.**, Venot, T., Corsi, M.-C. & Verma, P. (2025).  
+*Neural mechanisms of training in Brain-Computer Interface: A Biophysical
+modeling approach.*  
+[Preprint](https://doi.org/10.1101/2025.06.21.660834)
+
+**Debnath, A.** (2026).  
+*Spectral Graph Modeling of Abnormal Neural Synchronizations in Alzheimer's
+Disease.*  
+M.S. Thesis, University of California, San Francisco.  
+[Thesis](https://www.proquest.com/dissertations-theses/spectral-graph-modeling-abnormal-neural/docview/3381514999/se-2?accountid=14525)
+
+---
+
+## Education
+
+**University of California, San Francisco** — M.S. Biomedical Imaging, 2026  
+**National Institute of Technology Durgapur** — B.Tech. Biotechnology, 2024
+
+---
+
+**[Curriculum Vitae](files/Apurba_CV.pdf)** · **[Google Scholar](#)** · **[GitHub](#)** · **[LinkedIn](#)**
 
 
 
