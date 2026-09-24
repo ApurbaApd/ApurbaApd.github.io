@@ -33,8 +33,8 @@ modeling approach.*
 [Preprint](https://doi.org/10.1101/2025.06.21.660834)
 
 **Debnath, A.** (2026).  
-*Spectral Graph Modeling of Abnormal Neural Synchronizations in Alzheimer's
-Disease.*  
+*Spectral Graph modeling of abnormal neural synchronizations in Alzheimer's
+disease.*  
 M.S. Thesis, University of California, San Francisco.  
 [Thesis](https://www.proquest.com/dissertations-theses/spectral-graph-modeling-abnormal-neural/docview/3381514999/se-2?accountid=14525)
 
@@ -42,7 +42,7 @@ M.S. Thesis, University of California, San Francisco.
 
 M.S. in Biomedical Imaging, **University of California, San Francisco**, 2026
 
-B.Tech. Biotechnology, **National Institute of Technology Durgapur**, 2024
+B.Tech. in Biotechnology, **National Institute of Technology Durgapur**, 2024
 
 ## Research Interests
 
