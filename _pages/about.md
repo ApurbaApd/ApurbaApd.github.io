@@ -26,6 +26,28 @@ on mathematical/machine-learning modeling of drug delivery systems with
 [Prof. Dalia Dasgupta Mandal](https://nitdgp.ac.in/department/biotechnology). Check out my CV **[here](files/Apurba_CV.pdf)**
 
 ---
+## Peer-Reviewed Publications
+
+**Debnath, A.**, Venot, T., Corsi, M.-C. & Verma, P. (2025).  
+*Neural mechanisms of training in Brain-Computer Interface: A Biophysical
+modeling approach.*  
+[Preprint](https://doi.org/10.1101/2025.06.21.660834)
+
+**Debnath, A.** (2026).  
+*Spectral Graph Modeling of Abnormal Neural Synchronizations in Alzheimer's
+Disease.*  
+M.S. Thesis, University of California, San Francisco.  
+[Thesis](https://www.proquest.com/dissertations-theses/spectral-graph-modeling-abnormal-neural/docview/3381514999/se-2?accountid=14525)
+
+---
+
+## Education
+
+M.S. in Biomedical Imaging, **University of California, San Francisco**, 2026
+
+B.Tech. Biotechnology, **National Institute of Technology Durgapur**, 2024
+
+---
 
 ## Research Interests
 
@@ -62,27 +84,6 @@ support **personalized BCI training**.
 My broader interests include applying machine learning to biomedical imaging (neuroimaging),
 including image denoising, segmentation, and quantitative analysis.
 
----
-
-## Peer-Reviewed Publications
-
-**Debnath, A.**, Venot, T., Corsi, M.-C. & Verma, P. (2025).  
-*Neural mechanisms of training in Brain-Computer Interface: A Biophysical
-modeling approach.*  
-[Preprint](https://doi.org/10.1101/2025.06.21.660834)
-
-**Debnath, A.** (2026).  
-*Spectral Graph Modeling of Abnormal Neural Synchronizations in Alzheimer's
-Disease.*  
-M.S. Thesis, University of California, San Francisco.  
-[Thesis](https://www.proquest.com/dissertations-theses/spectral-graph-modeling-abnormal-neural/docview/3381514999/se-2?accountid=14525)
-
----
-
-## Education
-
-**University of California, San Francisco** — M.S. Biomedical Imaging, 2026  
-**National Institute of Technology Durgapur** — B.Tech. Biotechnology, 2024
 
 
 
