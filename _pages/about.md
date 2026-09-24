@@ -13,10 +13,10 @@ brain network alterations in Alzheimer's disease at the
 [Prof. Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
 [Prof. Srikantan Nagarajan](https://radiology.ucsf.edu/people/srikantan-nagarajan).
 
-Before joining UCSF, I worked a postbaccalaureate researcher at **IIT Madras**, in
+Before joining UCSF, I worked as a postbaccalaureate researcher at **IIT Madras**, in
 collaboration with the **Paris Brain Institute**. My research focused on
 understanding the neural mechanisms underlying brain–computer interface
-(BCI) control using computational models to inform personalized BCI
+(BCI) control using computational model to inform personalized BCI
 training. There I worked with [Parul Verma](https://ibse.iitm.ac.in/people/parul_verma/) at IBSE, IIT Madras, and
 [Marie-Constance Corsi](https://parisbraininstitute.org/collaborators/corsi-marie-constance) at Inria–Paris Brain Institute.
 
