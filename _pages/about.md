@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 Hey, I am currently working on understanding brain dynamics
-through neuroimaging, compuatational models and machine learning.
+through neuroimaging, computational models and machine learning.
 
 I recently graduated from **University of
 California, San Francisco (UCSF)**, with my **Master's in Biomedical Imaging** in the Department of Radiology and Biomedical Imaging, where I worked on computational modeling of
@@ -13,15 +13,15 @@ brain network alterations in Alzheimer's disease at the
 [Prof. Ashish Raj](https://radiology.ucsf.edu/people/ashish-raj) and
 [Prof. Srikantan Nagarajan](https://radiology.ucsf.edu/people/srikantan-nagarajan).
 
-Previously, I was a postbaccalaureate researcher at **IIT Madras**, in
+Before joining UCSF, I worked a postbaccalaureate researcher at **IIT Madras**, in
 collaboration with the **Paris Brain Institute**. My research focused on
 understanding the neural mechanisms underlying brain–computer interface
-(BCI) control and using computational models to inform personalized BCI
+(BCI) control using computational models to inform personalized BCI
 training. There I worked with [Parul Verma](https://ibse.iitm.ac.in/people/parul_verma/) at IBSE, IIT Madras, and
 [Marie-Constance Corsi](https://parisbraininstitute.org/collaborators/corsi-marie-constance) at Inria–Paris Brain Institute.
 
-I earned my **Bachelor's Degree in Biotechnology with Mathematics and Computer Science
-from NIT Durgapur, India, in 2024**. As an undergraduate researcher, I worked
+Earlier, I earned my **Bachelor's Degree in Biotechnology with Mathematics and Computer Science
+from NIT Durgapur - India, in 2024**. As an undergraduate researcher, I worked
 on mathematical/machine-learning modeling of drug delivery systems with
 [Prof. Dalia Dasgupta Mandal](https://nitdgp.ac.in/department/biotechnology). Check out my CV **[here](files/Apurba_CV.pdf)**
 
