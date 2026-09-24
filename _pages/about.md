@@ -3,10 +3,6 @@ permalink: /
 author_profile: true
 ---
 
-# Apurba Debnath
-
-**Computational Neuroscience · Neuroimaging · Brain–Computer Interfaces · Machine Learning**
-
 I am a computational neuroscientist interested in understanding brain dynamics
 through **neuroimaging, brain network modeling, and machine learning**.
 
@@ -39,7 +35,7 @@ on mathematical and machine-learning models of drug delivery systems with
 Brain network modeling · Neural mass models · Neural dynamics
 
 **Neuroimaging**  
-MEG · EEG · MRI · Spectral analysis · Brain connectivity
+MEG · EEG · MRI (fMRI, d-MRI) · Spectral analysis · Brain connectivity
 
 **Brain–Computer Interfaces**  
 BCI modeling · Motor imagery · Neural mechanisms of learning
@@ -65,13 +61,12 @@ support **personalized BCI training**.
 
 ### Medical Imaging & Machine Learning
 
-My broader interests include applying machine learning to biomedical imaging,
-including image reconstruction, denoising, segmentation, and quantitative
-analysis.
+My broader interests include applying machine learning to biomedical imaging (neuroimaging),
+including image denoising, segmentation, and quantitative analysis.
 
 ---
 
-## Publications
+## Peer-Reviewed Publications
 
 **Debnath, A.**, Venot, T., Corsi, M.-C. & Verma, P. (2025).  
 *Neural mechanisms of training in Brain-Computer Interface: A Biophysical
