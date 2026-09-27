@@ -3,17 +3,18 @@ permalink: /
 author_profile: true
 ---
 
-Hey, I am currently working on understanding brain dynamics
+**Hello, I am Apurba!**
+I am currently working on understanding brain dynamics
 through neuroimaging, computational models and machine learning.
 
-I recently graduated from <a href="https://www.ucsf.edu" style="color: #6a5acd; text-decoration: none;">University of California, San Francisco (UCSF)</a>, with my Master's in Biomedical Imaging in the Department of Radiology and Biomedical Imaging, where I worked on computational modeling of brain network alterations in Alzheimer's disease at the <a href="https://rajlab.ucsf.edu" style="color: #6a5acd; text-decoration: none;">Brain Networks Laboratory</a>, working with <a href="https://radiology.ucsf.edu/people/ashish-raj" style="color: #6a5acd; text-decoration: none;">Prof. Ashish Raj</a> and <a href="https://radiology.ucsf.edu/people/srikantan-nagarajan" style="color: #6a5acd; text-decoration: none;">Prof. Srikantan Nagarajan</a>
+I recently graduated from <a href="https://www.ucsf.edu" style="color: #6a5acd; text-decoration: none;">University of California, San Francisco (UCSF)</a>, with my Master's in Biomedical Imaging in the <a href="https://radiology.ucsf.edu/" style="color: #6a5acd; text-decoration: none;">Department of Radiology and Biomedical Imaging</a>, where I worked on computational modeling of brain network alterations in Alzheimer's disease at the <a href="https://rajlab.ucsf.edu" style="color: #6a5acd; text-decoration: none;">Brain Networks Laboratory</a>, working with <a href="https://radiology.ucsf.edu/people/ashish-raj" style="color: #6a5acd; text-decoration: none;">Prof. Ashish Raj</a> and <a href="https://radiology.ucsf.edu/people/srikantan-nagarajan" style="color: #6a5acd; text-decoration: none;">Prof. Srikantan Nagarajan</a>
 
 Before joining UCSF, I worked as a postbaccalaureate researcher at <a href="https://rbcdsai.iitm.ac.in/" style="color: #6a5acd; text-decoration: none;">RBCDSAI</a>/<a href="https://ibse.iitm.ac.in" style="color: #6a5acd; text-decoration: none;">IBSE</a>, IIT Madras, India, in collaboration with the Paris Brain Institute. My research focused on understanding the neural mechanisms underlying brain–computer interface (BCI) control using computational model to inform personalized BCI training. There I worked with <a href="https://ibse.iitm.ac.in/people/parul_verma/" style="color: #6a5acd; text-decoration: none;">Parul Verma</a> at IBSE, IIT Madras, and <a href="https://parisbraininstitute.org/collaborators/corsi-marie-constance" style="color: #6a5acd; text-decoration: none;">Marie-Constance Corsi</a> at Inria–Paris Brain Institute.
 
 Earlier, I earned my Bachelor's Degree in Biotechnology with Mathematics and Computer Science
 from <a href="https://nitdgp.ac.in/department/biotechnology" style="color: #6a5acd; text-decoration: none;">NIT Durgapur, India</a>, in 2024. As an undergraduate researcher, I worked
 on mathematical/machine-learning modeling of drug delivery systems with
-<a href="https://nitdgp.ac.in/department/biotechnology" style="color: #6a5acd; text-decoration: none;">Prof. Dalia Dasgupta Mandal</a>. Check out my CV [here](files/Apurba_CV.pdf)
+<a href="https://nitdgp.ac.in/department/biotechnology" style="color: #6a5acd; text-decoration: none;">Prof. Dalia Dasgupta Mandal</a>. Check out my CV [here](files/Apurba_CV.pdf).
 
 ## Peer-Reviewed Publications
 
@@ -25,8 +26,7 @@ modeling approach."*
 **Debnath, A.** (2026).  
 *"Spectral Graph Modeling of Abnormal Neural Synchronizations in Alzheimer's
 Disease."*  
-M.S. Thesis, University of California, San Francisco.  
-[Thesis](https://escholarship.org/content/qt4k23z0mp/qt4k23z0mp.pdf)
+M.S. Thesis, University of California, San Francisco.[Thesis](https://escholarship.org/content/qt4k23z0mp/qt4k23z0mp.pdf)
 
 ## Education
 
@@ -51,17 +51,12 @@ AI4Medical-imaging - imaging denoising · segmentation · signal decoding and  q
 
 ## My Research Discovery
 
-## Alzheimer’s Disease & Brain Network Modeling
+**Alzheimer’s Disease & Brain Network Modeling**
 
 My master's thesis research discovered that Alzheimer's
 disease (AD) is accompanied by significant alteration in scale-free brain activity, where disruption in scale-free signals' power in delta-theta(1-7Hz), alpha(8-12 Hz) and beta(13-30 Hz) band broadly recapitulate regions selectively vulnerable to AD pathology like metabolic dysfunction and neurotoxin protein accumulations. Moreover, these altered scale-free brain activity also impair E/I dynamics where AD shows selectively amplified excitatory activity, reflected by significant increase in excitaory population time constants at the regional level, and with the severity of cognitive decline it becomes much more apparent at the network level with the significant increase in long-range excitatory neurons' time constants -- together implicating local and global slowing of excitatory dynamics in AD.
 
-## Brain Computer Interface (BCI)
+**Brain Computer Interface (BCI)**
 
-My post-bacc research discovered that motor-imagery (MI) task condition during BCI learning is accompanied by significant alteration in aperiodic/scale-free brain activity, and this modulation of scale-free brain activity revealed that BCI training drives a shift from diffuse cortical activity to targeted sensorimotor recruitment via funtional reorganization of regional E/I dynamics. Moreover, excitatory population time constants tracked this shift while capturing condition- and session-related change in regional activation in the relevant areas of the sensorimotor cortex via significant reduction of excitatory time constants during MI compared to resting state, where MI-related desynchronization and synchronization also accompanied by significant association with the excitatory population time constants -- thereby supporting its potential as a new neural marker of BCI learning.
-
-
-
-
-
+My post-bacc research discovered that motor-imagery (MI) task condition during BCI learning is accompanied by significant alteration in aperiodic/scale-free brain activity, and this modulation of scale-free brain activity revealed that BCI training drives a shift from diffuse cortical activity to targeted sensorimotor recruitment via funtional reorganization of regional E/I dynamics. Moreover, excitatory population time constants tracked this shift while capturing condition- and session-related change in regional activation in the relevant areas of the sensorimotor cortex via significant reduction of excitatory time constants during MI compared to resting state, where MI-related desynchronization and synchronization phenomena are also accompanied by significant association with the excitatory population time constants -- thereby supporting its potential as a new neural marker of BCI learning.
 
