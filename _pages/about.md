@@ -7,21 +7,20 @@ author_profile: true
 I am currently working on understanding brain dynamics
 through neuroimaging, computational models and machine learning.
 
-I recently graduated from <a href="https://www.ucsf.edu" style="color: #F1C1FF; text-decoration: none;">University of California, San Francisco (UCSF)</a>, with my Master's in Biomedical Imaging in the <a href="https://radiology.ucsf.edu/" style="color: #F1C1FF; text-decoration: none;">Department of Radiology and Biomedical Imaging</a>, where I worked on computational modeling of brain network alterations in Alzheimer's disease at the <a href="https://rajlab.ucsf.edu" style="color: #F1C1FF; text-decoration: none;">Brain Networks Laboratory</a>, working with <a href="https://radiology.ucsf.edu/people/ashish-raj" style="color: #F1C1FF; text-decoration: none;">Prof. Ashish Raj</a> and <a href="https://radiology.ucsf.edu/people/srikantan-nagarajan" style="color: #F1C1FF; text-decoration: none;">Prof. Srikantan Nagarajan</a>
+I recently graduated from <a href="https://www.ucsf.edu" style="color: #F976FF; text-decoration: none;">University of California, San Francisco (UCSF)</a>, with my Master's in Biomedical Imaging in the <a href="https://radiology.ucsf.edu/" style="color: #F976FF; text-decoration: none;">Department of Radiology and Biomedical Imaging</a>, where I worked on computational modeling of brain network alterations in Alzheimer's disease at the <a href="https://rajlab.ucsf.edu" style="color: #F976FF; text-decoration: none;">Brain Networks Laboratory</a>, working with <a href="https://radiology.ucsf.edu/people/ashish-raj" style="color: #F976FF; text-decoration: none;">Prof. Ashish Raj</a> and <a href="https://radiology.ucsf.edu/people/srikantan-nagarajan" style="color: #F976FF; text-decoration: none;">Prof. Srikantan Nagarajan</a>
 
-Before joining UCSF, I worked as a postbaccalaureate researcher at <a href="https://rbcdsai.iitm.ac.in/" style="color: #F1C1FF; text-decoration: none;">RBCDSAI</a>/<a href="https://ibse.iitm.ac.in" style="color: #F1C1FF; text-decoration: none;">IBSE</a>, IIT Madras, India, in collaboration with the Paris Brain Institute. My research focused on understanding the neural mechanisms underlying brain–computer interface (BCI) control using computational model to inform personalized BCI training. There I worked with <a href="https://ibse.iitm.ac.in/people/parul_verma/" style="color: #F1C1FF; text-decoration: none;">Parul Verma</a> at IBSE, IIT Madras, and <a href="https://parisbraininstitute.org/collaborators/corsi-marie-constance" style="color: #F1C1FF; text-decoration: none;">Marie-Constance Corsi</a> at Inria–Paris Brain Institute.
+Before joining UCSF, I worked as a postbaccalaureate researcher at <a href="https://rbcdsai.iitm.ac.in/" style="color: #F976FF; text-decoration: none;">RBCDSAI</a>/<a href="https://ibse.iitm.ac.in" style="color: #F976FF; text-decoration: none;">IBSE</a>, IIT Madras, India, in collaboration with the Paris Brain Institute. My research focused on understanding the neural mechanisms underlying brain–computer interface (BCI) control using computational model to inform personalized BCI training. There I worked with <a href="https://ibse.iitm.ac.in/people/parul_verma/" style="color: #F976FF; text-decoration: none;">Parul Verma</a> at IBSE, IIT Madras, and <a href="https://parisbraininstitute.org/collaborators/corsi-marie-constance" style="color: #F976FF; text-decoration: none;">Marie-Constance Corsi</a> at Inria–Paris Brain Institute.
 
 Earlier, I earned my Bachelor's Degree in Biotechnology with Mathematics and Computer Science
-from <a href="https://nitdgp.ac.in/department/biotechnology" style="color: #F1C1FF; text-decoration: none;">NIT Durgapur, India</a>, in 2024. As an undergraduate researcher, I worked
+from <a href="https://nitdgp.ac.in/department/biotechnology" style="color: #F976FF; text-decoration: none;">NIT Durgapur, India</a>, in 2024. As an undergraduate researcher, I worked
 on mathematical/machine-learning modeling of drug delivery systems with
-<a href="https://nitdgp.ac.in/department/biotechnology" style="color: #F1C1FF; text-decoration: none;">Prof. Dalia Dasgupta Mandal</a>. Check out my CV [here](files/Apurba_CV.pdf).
+<a href="https://nitdgp.ac.in/department/biotechnology" style="color: #F976FF; text-decoration: none;">Prof. Dalia Dasgupta Mandal</a>. Check out my CV [here](files/Apurba_CV.pdf).
 
 ## Peer-Reviewed Publications
 
 **Debnath, A.**, Venot, T., Corsi, M.-C. & Verma, P. (2025).  
 *"Neural mechanisms of training in Brain-Computer Interface: A Biophysical
-modeling approach."*  
-[Preprint](https://doi.org/10.1101/2025.06.21.660834)
+modeling approach."*  [Preprint](https://doi.org/10.1101/2025.06.21.660834)
 
 **Debnath, A.** (2026).  
 *"Spectral Graph modeling of abnormal neural synchronizations in Alzheimer's
