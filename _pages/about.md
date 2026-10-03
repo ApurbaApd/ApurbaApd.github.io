@@ -13,7 +13,7 @@ Before joining UCSF, I worked as a postbaccalaureate researcher at <a href="http
 
 Earlier, I earned my Bachelor's Degree in Biotechnology with Mathematics and Computer Science
 from <a href="https://nitdgp.ac.in/department/biotechnology" style="color: #BA3645; text-decoration: none;">NIT Durgapur, India</a>, in 2024. As an undergraduate researcher, I worked on mathematical/machine-learning modeling of drug delivery systems with
-<a href="https://nitdgp.ac.in/department/biotechnology" style="color: #BA3645; text-decoration: none;">Prof. Dalia Dasgupta Mandal</a>. Check out my CV [here](files/Apurba_CV.pdf).
+<a href="https://nitdgp.ac.in/department/biotechnology" style="color: #BA3645; text-decoration: none;">Prof. Dalia Dasgupta Mandal</a>. Check out my CV [here](files/Apurba_academic_CV.pdf).
 
 ## Peer-Reviewed Publications
 
