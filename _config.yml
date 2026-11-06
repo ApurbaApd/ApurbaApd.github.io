@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Apurba_passport_photo.jpg"
   name             : "Apurba Debnath"
   # pronouns         : # example: "she/her"  
-  bio              : "Neuroscience Reasearcher"
+  bio              : "Neuroscience Researcher"
   location         : "San Francisco Bay Area"
   employer         : "UCSF"
   # uri              : "https://www.ucsf.edu"
