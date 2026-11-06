@@ -17,7 +17,7 @@ from <a href="https://nitdgp.ac.in/department/biotechnology" style="color: #BA36
 
 ## Peer-Reviewed Publications
 
-**Debnath, A.**, Venot, T., Corsi, M.-C. & Verma, P. (2025).  
+**Debnath, A.**, Venot, T., Corsi, M.-C. & Verma, P.  
 *"Neural mechanisms of training in Brain-Computer Interface: A Biophysical
 modeling approach."* (*revision in-review at NPJ Systems Biology and Applications*)  [Preprint](https://doi.org/10.1101/2025.06.21.660834)
 
